@@ -2,6 +2,6 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: [
-    "@invictus.codes/nuxt-vuetify", "@nuxt/content"
+    "@invictus.codes/nuxt-vuetify", "@nuxt/content", "@nuxt/image"
   ],
 })
